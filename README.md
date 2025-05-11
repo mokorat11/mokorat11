@@ -15,9 +15,15 @@
 ### Current classes
 
 BAIS:6040 - Data Programming in Python
+
 BAIS:6050 - Data Management
+
 BAIS:6070 - Data Science
+
 BAIS:6100 - Text Analytics
+
 BAIS:7110 - Managerial Communication
+
 BAIS:9110 - Advanced Analytics
+
 BAIS:9400 - Professional Development Business Acumen
